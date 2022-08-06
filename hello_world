@@ -1,0 +1,7 @@
+puts 1
+
+def test(a)
+  p a
+end
+
+test(1)
